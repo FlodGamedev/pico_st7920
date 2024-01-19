@@ -15,7 +15,7 @@ section followed by 4 〝0
 
 SYNC = 0b11111000
 
-class LCD12864(framebuf.FrameBuffer):
+class ST7920(framebuf.FrameBuffer):
     def __init__(self, spi, cs):
         self._spi = spi
         self._cs = cs
