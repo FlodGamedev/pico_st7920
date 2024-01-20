@@ -4,6 +4,7 @@ import framebuf
 
 '''
 forked from https://gist.github.com/phoreglad/ca01e9b66ff76abdb2e098ad47130921
+'''
 
 '''
 When starting a transmission a start byte is required. It consists of 5 consecutive 〝1〞（sync character）. Serial transfer counter
