@@ -1,6 +1,6 @@
 # pico_st7920
 
-As I have searched myself for hours about how to get this display running on a raspberry pi pico
+As I have searched for hours about how to get this display running on a raspberry pi pico
 I finally managed to get it working.
 
 <h3>Pinout</h3>
