@@ -12,9 +12,9 @@ I finally managed to get it working.
 | 1 GND       | GND      |                          |
 | 2 VCC       | VBUS     | My Version has a 3V/5V selector set to 5V         |
 | 3 VO        | GP26     |                          |
-| 4 RS        | GP13     |                          |
-| 5 R/W       | GP15     |                          |
-| 6 E         | GP14     |                          |
+| 4 RS        | GP13     | SPI CS                   |
+| 5 R/W       | GP15     | SPI TX                   |
+| 6 E         | GP14     | SPI SCK                  |
 | 15 PSB      | GND      | ParallelSerialBus selector <br>GND = Serial <br>High= Parallel                      |
 | 19 BLA      | 3v3      |                          |
 | 20 BLK      | GND      |                          |
